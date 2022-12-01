@@ -1,0 +1,17 @@
+Describing my Project:--
+
+
+I have done project in Edyoda. I have make the E-Commercial shoping app. In this web application
+user see the all product clothing for men and women and accessories for men and women , see the all 
+product details by clicking any product  and add to the cart by clicking on add-to-cart button 
+and make order.
+     In this project i have use html for designing the structure application, css for styling and 
+javascript for adding functionality to the applicatoin . i am using jquery, ajax for fetching the api
+data to the web browser.I am using localstorage for adding to the cart . I have make all the product 
+dynamically by using jquery library of javascript . I am getting all the data from api by using get
+request and all the product data is shown dynamically. And for placing order i use post method .
+When user click  add-to-cart button for adding the product in cart so product will store in local
+storage in form of key and value pair and in the cart page i have fetch all the data of product 
+by getting back from the localstorege.
+
+
